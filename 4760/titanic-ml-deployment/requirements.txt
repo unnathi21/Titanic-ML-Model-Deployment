@@ -1,0 +1,1 @@
+pandas\nscikit-learn\njoblib\nfastapi\nuvicorn\nrequests\nhttpx\n
